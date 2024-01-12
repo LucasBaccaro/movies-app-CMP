@@ -1,14 +1,40 @@
-This is a Kotlin Multiplatform project targeting Android, iOS, Desktop.
+# APP MOVIES (Compose Multiplatform & Kotlin Multiplatform)
 
-* `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
-  It contains several subfolders:
-  - `commonMain` is for code that’s common for all targets.
-  - Other folders are for Kotlin code that will be compiled for only the platform indicated in the folder name.
-    For example, if you want to use Apple’s CoreCrypto for the iOS part of your Kotlin app,
-    `iosMain` would be the right folder for such calls.
+> In this project, I put into practice my skills with this new technology.
 
-* `/iosApp` contains iOS applications. Even if you’re sharing your UI with Compose Multiplatform, 
-  you need this entry point for your iOS app. This is also where you should add SwiftUI code for your project.
+- [Architecture](#architecture)
+- [Libraries Used](#libraries-used)
 
+## Architecture
+The project utilizes the Model-View-ViewModel (MVVM) architecture pattern. This approach helps in separating the business logic and user interface, making the code more manageable and scalable.
 
-Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
+## Libraries Used
+- **Ktor:** Used for handling HTTP requests and networking operations.
+- **Koin:** A lightweight dependency injection framework.
+- **DateTime:** For handling date and time operations.
+- **Image Loader:** Efficiently loads and displays images.
+- **Precompose:** Utilized for navigation and managing ViewModels in a multiplatform environment.
+
+## Availability
+The APP MOVIES is available on multiple platforms:
+
+### iOS
+(iOS specific details or features)
+![iOS Screenshot 1](path/to/ios_screenshot1.png)
+![iOS Screenshot 2](path/to/ios_screenshot2.png)
+
+### Android
+(Android specific details or features)
+![Android Screenshot 1](path/to/android_screenshot1.png)
+![Android Screenshot 2](path/to/android_screenshot2.png)
+
+### Web
+(Web specific details or features)
+![Web Screenshot 1](path/to/web_screenshot1.png)
+![Web Screenshot 2](path/to/web_screenshot2.png)
+
+### Desktop
+(Desktop specific details or features)
+![Desktop Screenshot 1](path/to/desktop_screenshot1.png)
+![Desktop Screenshot 2](path/to/desktop_screenshot2.png)
+

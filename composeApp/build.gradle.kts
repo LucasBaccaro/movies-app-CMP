@@ -26,7 +26,7 @@ kotlin {
                 devServer = (devServer
                     ?: org.jetbrains.kotlin.gradle.targets.js.webpack.KotlinWebpackConfig.DevServer()).copy()
             }
-            binaries.executable() //it will generate executable js files
+            binaries.executable()
         }
     }
 
