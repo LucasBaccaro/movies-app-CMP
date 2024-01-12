@@ -1,10 +1,10 @@
-# APP MOVIES 
+# APP MOVIES
 
-> (Compose Multiplatform & Kotlin Multiplatform)
+> Compose Multiplatform & Kotlin Multiplatform
 
 - [iOS](#ios)
-- [Web](#web)
 - [Android](#android)
+- [Web](#web)
 - [Desktop](#desktop)
 - [Libraries Used](#libraries-used)
 
@@ -15,35 +15,32 @@
 - **Image Loader:** Efficiently loads and displays images.
 - **Precompose:** Utilized for navigation and managing ViewModels in a multiplatform environment.
 
-## Availability
-The APP MOVIES is available on multiple platforms:
-
-### iOS
+## iOS
 (iOS specific details or features)
-![iOS Screenshot 1](screenshots/android/onboarding.png)
-![iOS Screenshot 2](screenshots/android/skeleton.png)
-![iOS Screenshot 2](screenshots/android/home.png)
-![iOS Screenshot 2](screenshots/android/detail.png)
+<img src="screenshots/ios/onboarding.png" width="400">
+<img src="screenshots/ios/skeleton.png" width="400">
+<img src="screenshots/ios/home.png" width="400">
+<img src="screenshots/ios/detail.png" width="400">
 
-### Android
+## Android
 (Android specific details or features)
-![Android Screenshot 1](screenshots/android/onboarding.png)
-![Android Screenshot 1](screenshots/android/skeleton.png)
-![Android Screenshot 1](screenshots/android/home.png)
-![Android Screenshot 1](screenshots/android/detail.png)
+<img src="screenshots/android/onboarding.png" width="400">
+<img src="screenshots/android/skeleton.png" width="400">
+<img src="screenshots/android/home.png" width="400">
+<img src="screenshots/android/detail.png" width="400">
 
-
-### Web
+## Web
 (Web specific details or features)
-![Web Screenshot 1](path/web/onboarding.png)
-![Web Screenshot 2](path/web/skeleton.png)
-![Web Screenshot 2](path/web/home.png)
-![Web Screenshot 2](path/web/detail.png)
+<img src="screenshots/web/onboarding.png" width="400">
+<img src="screenshots/web/skeleton.png" width="400">
+<img src="screenshots/web/home.png" width="400">
+<img src="screenshots/web/detail.png" width="400">
 
-### Desktop
+## Desktop
 (Desktop specific details or features)
-![Desktop Screenshot 1](path/desktop/onboarding.png)
-![Desktop Screenshot 2](path/desktop/skeleton.png)
-![Desktop Screenshot 2](path/desktop/home.png)
-![Desktop Screenshot 2](path/desktop/detail.png)
+<img src="screenshots/desktop/onboarding.png" width="400">
+<img src="screenshots/desktop/skeleton.png" width="400">
+<img src="screenshots/desktop/home.png" width="400">
+<img src="screenshots/desktop/detail.png" width="400">
+
 
