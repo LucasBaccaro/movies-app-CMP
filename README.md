@@ -1,12 +1,12 @@
-# APP MOVIES (Compose Multiplatform & Kotlin Multiplatform)
+# APP MOVIES 
 
-> In this project, I put into practice my skills with this new technology.
+> (Compose Multiplatform & Kotlin Multiplatform)
 
-- [Architecture](#architecture)
+- [iOS](#ios)
+- [Web](#web)
+- [Android](#android)
+- [Desktop](#desktop)
 - [Libraries Used](#libraries-used)
-
-## Architecture
-The project utilizes the Model-View-ViewModel (MVVM) architecture pattern. This approach helps in separating the business logic and user interface, making the code more manageable and scalable.
 
 ## Libraries Used
 - **Ktor:** Used for handling HTTP requests and networking operations.
@@ -20,21 +20,30 @@ The APP MOVIES is available on multiple platforms:
 
 ### iOS
 (iOS specific details or features)
-![iOS Screenshot 1](path/to/ios_screenshot1.png)
-![iOS Screenshot 2](path/to/ios_screenshot2.png)
+![iOS Screenshot 1](screenshots/android/onboarding.png)
+![iOS Screenshot 2](screenshots/android/skeleton.png)
+![iOS Screenshot 2](screenshots/android/home.png)
+![iOS Screenshot 2](screenshots/android/detail.png)
 
 ### Android
 (Android specific details or features)
-![Android Screenshot 1](path/to/android_screenshot1.png)
-![Android Screenshot 2](path/to/android_screenshot2.png)
+![Android Screenshot 1](screenshots/android/onboarding.png)
+![Android Screenshot 1](screenshots/android/skeleton.png)
+![Android Screenshot 1](screenshots/android/home.png)
+![Android Screenshot 1](screenshots/android/detail.png)
+
 
 ### Web
 (Web specific details or features)
-![Web Screenshot 1](path/to/web_screenshot1.png)
-![Web Screenshot 2](path/to/web_screenshot2.png)
+![Web Screenshot 1](path/web/onboarding.png)
+![Web Screenshot 2](path/web/skeleton.png)
+![Web Screenshot 2](path/web/home.png)
+![Web Screenshot 2](path/web/detail.png)
 
 ### Desktop
 (Desktop specific details or features)
-![Desktop Screenshot 1](path/to/desktop_screenshot1.png)
-![Desktop Screenshot 2](path/to/desktop_screenshot2.png)
+![Desktop Screenshot 1](path/desktop/onboarding.png)
+![Desktop Screenshot 2](path/desktop/skeleton.png)
+![Desktop Screenshot 2](path/desktop/home.png)
+![Desktop Screenshot 2](path/desktop/detail.png)
 
